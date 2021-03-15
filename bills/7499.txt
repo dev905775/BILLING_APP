@@ -1,0 +1,26 @@
+		Welcome Webcode Reatil
+
+ Bill Number   : 7499
+ Custemer Name : dev
+ Phone Number  : 478547857
+=========================================================
+ Products				QTY		Price
+=========================================================
+ Bath Soap				5		200
+ Face Cream				9		1080
+ Face Wash				99		5940
+ Spray				9		1620
+ Hair Gell				9		1260
+ Body Loshan				9		1620
+ Rice				9		720
+ Food Oil				9		1620
+ Daal				9		540
+ Wheat				9		2160
+ Sugar				9		405
+ Tea				9		1350
+---------------------------------------------------------
+ Cosmetic Tax :					Rs. 586.0
+ Grocery Tax :					Rs. 679.5
+
+ Total Bill :					 Rs. 19780.5
+---------------------------------------------------------
